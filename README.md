@@ -13,9 +13,6 @@
   💼 Ferramentas: <strong>VsCode, Figma, Adobe Photoshop, Netflify, Git e Github</strong>
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
   <a href="#" alt="Gmail">
