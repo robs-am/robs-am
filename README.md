@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Figma, Adobe Photoshop, Netflify, Git e Github</strong>
+  💼 Ferramentas: <strong>VsCode, Figma, Adobe Photoshop, Git </strong>
 </p>
 
 
