@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Me chamo Roberta e sou <strong>Desenvolvedora Front-End</strong>.<br>
+  Hi! I am a Web Developer with focus on Front-End Developer. Currently learning React.Js</strong>.<br>
   
 </p>
 
 <p align="left">
-   Habilidades: <strong>HTML, CSS, Javascript, TailwindCSS, React</strong>
+   Skills: <strong>HTML, CSS, Javascript, TailwindCSS, React</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Figma, Adobe Photoshop, Git </strong>
+  Tools: <strong>VsCode, Figma, Adobe Photoshop, Git </strong>
 </p>
 
 
