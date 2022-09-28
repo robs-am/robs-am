@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! I am a Web Developer with focus on Front-End Development. Currently learning React.Js</strong>.<br>
+  Hi! I am a Web Developer with focus on Front-End Development. 
+  
+ 💡 Currently learning React.Js</strong>.<br>
   
 </p>
 
