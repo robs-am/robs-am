@@ -11,9 +11,7 @@
    Skills: <strong>HTML, CSS, Javascript, TailwindCSS, React</strong>
 </p>
 
-<p align="left">
-  Tools: <strong>VsCode, Figma, Adobe Photoshop, Git </strong>
-</p>
+
 
 
 <p align="left">
