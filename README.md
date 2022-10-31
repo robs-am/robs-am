@@ -27,5 +27,5 @@
 
 ![robs-am's GitHub stats](https://github-readme-stats.vercel.app/api?username=robs-am&show_icons=true&theme=tokyonight)
   
-  ![image](https://github-readme-streak-stats.herokuapp.com/?user=robs-am)
+  ![image](https://github-readme-streak-stats.herokuapp.com/?user=robs-am&show_icons=true&theme=tokyonight)
 
