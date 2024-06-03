@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NextJS <br>🎯 Goals: ...<br>
+<p align="left">📚 I'm currently learning NextJS <br>
 
 ###
 
