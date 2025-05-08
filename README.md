@@ -1,5 +1,5 @@
 
-<img src="https://github.com/robs-am/robs-am/assets/102549776/c2caf281-7ac8-4198-be58-c0bbc8b4e6ed" width="200" height="200">
+
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
