@@ -27,10 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/tailwind-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />-->
-  
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,postman,tailwind,styledcomponents,storybook,jest)](https://skillicons.dev" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
  
 </div>
 
