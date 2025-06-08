@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/tailwind-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />-->
   
-
   <img src="https://skillicons.dev/icons?i=js,typescript,react,postman,tailwind,styledcomponents,storybook,jest)](https://skillicons.dev" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
@@ -40,6 +39,4 @@
 
 
 ![robs-am's GitHub stats](https://github-readme-stats.vercel.app/api?username=robs-am&show_icons=true&theme=tokyonight)
-  
-  ![image](https://github-readme-streak-stats.herokuapp.com/?user=robs-am&show_icons=true&theme=tokyonight)
 
