@@ -12,13 +12,13 @@
 
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Stack</h2>
 
 ###
 
 <div align="left">
 
- [![My Skills](https://skillicons.dev/icons?i=typescript,react,js,postman,tailwind,styledcomponents)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=typescript,react,js,postman,tailwind,styledcomponents,figma,nodejs,kotlin,postgres)](https://skillicons.dev)
  
 
 
