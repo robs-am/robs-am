@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Roberta Amaro and I'm a Web Developer, from Brazil</p>
+
 
 ###
 
