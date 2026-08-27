@@ -2,10 +2,9 @@
 
 I'm a Software Engineer who enjoys turning ideas into reliable and user-centered products.
 
-My main focus is **frontend engineering**, working mainly with **React, TypeScript, Next.js, and AWS**. I also dive into **backend and full-stack (sometimes)**, building APIs, integrations, and cloud-based solutions.
+My main focus is **frontend engineering**, working mainly with **React, TypeScript, Next.js. I also dive into **backend and full-stack (sometimes)**, building APIs, integrations, and cloud-based solutions.
 
-I'm particularly interested in **AI, performance, SEO, and product engineering**.
-
+I'm particularly interested in **AI, performance and product engineering**.
 
 ---
 
