@@ -10,7 +10,7 @@ I'm particularly interested in **AI, performance and product engineering**.
 
 ## 🌎 Find me online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/user/roberta-amaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/roberta-amaro)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/robs-am)
 
 ## What I do
